@@ -1,0 +1,46 @@
+body {
+    background-color: #242526;
+    color: #ebebed;
+    font-family: monospace;
+}
+
+button {
+    background-color: transparent; 
+    border: none; 
+    padding: 0;
+    margin: 1px;
+    font: inherit;
+    color: inherit;
+    text-align: inherit;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ebebed;
+    text-align: left;
+}
+
+th > button { 
+    background-color: transparent; 
+    border: none; 
+    padding: 0; 
+    font: inherit;
+    color: inherit;
+    width: 100%;
+    text-align: inherit;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ebebed;
+    color: #242526;
+}
+
+button:active {
+    background-color: #242526;
+    color: #ebebed;
+}

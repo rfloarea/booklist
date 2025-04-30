@@ -1,0 +1,210 @@
+[
+    {
+        "title": "Permanent Record",
+        "author": "Edward Snowden",
+        "published": 2019,
+        "start": "2025-01-01",
+        "end": "2025-01-07",
+        "status": "Finished"
+    },
+    {
+        "title": "Finite and Infinite Games",
+        "author": "James P. Carse",
+        "published": 1986,
+        "start": "2025-01-01",
+        "end": "2025-01-09",
+        "status": "Finished"
+    },
+    {
+        "title": "A Hacker Manifesto",
+        "author": "McKenzie Wark",
+        "published": 2004,
+        "start": "2025-01-03",
+        "end": "2025-03-15",
+        "status": "Finished"
+    },
+    {
+        "title": "Dark Mirror",
+        "author": "Barton Gellman",
+        "published": 2020,
+        "start": "2025-01-06",
+        "end": "2025-01-18",
+        "status": "Finished"
+    },
+    {
+        "title": "How Cybersecurity Actually Works",
+        "author": "Sam Grubb",
+        "published": 2020,
+        "start": "2025-01-06",
+        "end": "2025-01-12",
+        "status": "Finished"
+    },
+    {
+        "title": "The Origins of Totalitarianism",
+        "author": "Hannah Arendt",
+        "published": 1951,
+        "start": "2025-01-20",
+        "end": "2025-02-03",
+        "status": "Abandoned"
+    },
+    {
+        "title": "Antifragile: Things That Gain from Disorder",
+        "author": "Nassim Nicholas Taleb",
+        "published": 2012,
+        "start": "2025-03-09",
+        "end": "2025-03-18",
+        "status": "Abandoned"
+    },
+    {
+        "title": "21 Lessons for the 21st Century",
+        "author": "Yuval Noah Harari",
+        "published": 2018,
+        "start": "2025-03-09",
+        "end": "2025-03-23",
+        "status": "Abandoned"
+    },
+    {
+        "title": "Beautiful Math",
+        "author": "Chris Bernhardt",
+        "published": 2024,
+        "start": "2025-03-18",
+        "end": "2025-03-28",
+        "status": "Abandoned"
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "published": 2017,
+        "start": "2025-02-09",
+        "end": "2025-02-23",
+        "status": "Finished"
+    },
+    {
+        "title": "Homo Deus: A Brief History of Tomorrow",
+        "author": "Yuval Noah Harari",
+        "published": 2017,
+        "start": "2025-02-27",
+        "end": "2025-03-11",
+        "status": "Finished"
+    },
+    {
+        "title": "An Indigenous Peoples' History of the United States",
+        "author": "Roxanne Dunbar-Ortiz",
+        "published": 2014,
+        "start": "2025-03-18",
+        "end": "2025-03-28",
+        "status": "Finished"
+    },
+    {
+        "title": "The Pleasure of Finding Things Out",
+        "author": "Richard P. Feynman",
+        "published": 1999,
+        "start": "2025-03-19",
+        "end": "2025-03-25",
+        "status": "Finished"
+    },
+    {
+        "title": "Seven Brief Lessons on Physics",
+        "author": "Carlo Rovelli",
+        "published": 2016,
+        "start": "2025-03-31",
+        "end": "2025-04-01",
+        "status": "Finished"
+    },
+    {
+        "title": "The Order of Time",
+        "author": "Carlo Rovelli",
+        "published": 2018,
+        "start": "2025-04-01",
+        "end": "2025-04-10",
+        "status": "Finished"
+    },
+    {
+        "title": "The Structure of Scientific Revolutions",
+        "author": "Thomas S. Kuhn",
+        "published": 1970,
+        "start": "2025-04-01",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "Introduction to Mathematical Thinking",
+        "author": "Keith Devlin",
+        "published": 2012,
+        "start": "2025-04-03",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "Introductory Mathematics",
+        "author": "Nigel P. Cook",
+        "published": 1995,
+        "start": "2025-04-04",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "Mathematical Mindsets",
+        "author": "Jo Boaler",
+        "published": 2016,
+        "start": "2025-04-05",
+        "end": "2025-04-15",
+        "status": "Finished"
+    },
+    {
+        "title": "Factfulness",
+        "author": "Hans Rosling",
+        "published": 2018,
+        "start": "2025-04-11",
+        "end": "2025-04-18",
+        "status": "Finished"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "published": 1915,
+        "start": "2025-04-14",
+        "end": "2025-04-15",
+        "status": "Finished"
+    },
+    {
+        "title": "Behave: The Biology of Humans at Our Best and Worst Behavior",
+        "author": "Robert Sapolsky",
+        "published": 2017,
+        "start": "2025-04-14",
+        "end": "2025-04-25",
+        "status": "Finished"
+    },
+    {
+        "title": "White Holes",
+        "author": "Carlo Rovelli",
+        "published": 2023,
+        "start": "2025-04-20",
+        "end": "2025-04-21",
+        "status": "Finished"
+    },
+    {
+        "title": "Helgoland: Making Sense of the Quantum Revolution",
+        "author": "Carlo Rovelli",
+        "published": 2021,
+        "start": "2025-04-22",
+        "end": "2025-04-25",
+        "status": "Finished"
+    },
+    {
+        "title": "Fundamentals: Ten Keys to Reality",
+        "author": "Frank Wilczek",
+        "published": 2021,
+        "start": "2025-04-25",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "The Disordered Cosmos",
+        "author": "Chanda Prescod-Weinstein",
+        "published": 2021,
+        "start": "2025-04-26",
+        "end": "...",
+        "status": "Current"
+    }
+]
