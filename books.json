@@ -196,15 +196,23 @@
         "author": "Frank Wilczek",
         "published": 2021,
         "start": "2025-04-25",
-        "end": "...",
-        "status": "Current"
+        "end": "2025-05-06",
+        "status": "Finished"
     },
     {
         "title": "The Disordered Cosmos",
         "author": "Chanda Prescod-Weinstein",
         "published": 2021,
         "start": "2025-04-26",
-        "end": ".2025-05-03",
+        "end": "2025-05-03",
         "status": "Finished"
+    },
+    {
+        "title": "We Are Electric",
+        "author": "Sally Adee",
+        "published": 2023,
+        "start": "2025-05-06",
+        "end": "...",
+        "status": "Current"
     }
 ]
