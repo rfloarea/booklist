@@ -212,6 +212,22 @@
         "author": "Sally Adee",
         "published": 2023,
         "start": "2025-05-06",
+        "end": "2025-05-15",
+        "status": "Finished"
+    },
+    {
+        "title": "The Accidental Universe",
+        "author": "Alan Lightman",
+        "published": 2014,
+        "start": "2025-05-16",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "The Biggest Ideas in the Universe: Quanta and Fields",
+        "author": "Sean Carroll",
+        "published": 2024,
+        "start": "2025-05-07",
         "end": "...",
         "status": "Current"
     }
