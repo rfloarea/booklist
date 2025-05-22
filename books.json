@@ -220,14 +220,22 @@
         "author": "Alan Lightman",
         "published": 2014,
         "start": "2025-05-16",
-        "end": "...",
-        "status": "Current"
+        "end": "2025-05-18",
+        "status": "Finished"
     },
     {
         "title": "The Biggest Ideas in the Universe: Quanta and Fields",
         "author": "Sean Carroll",
         "published": 2024,
         "start": "2025-05-07",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "Something Deeply Hidden",
+        "author": "Sean Carroll",
+        "published": 2019,
+        "start": "2025-05-22",
         "end": "...",
         "status": "Current"
     }
