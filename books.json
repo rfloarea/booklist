@@ -228,14 +228,22 @@
         "author": "Sean Carroll",
         "published": 2024,
         "start": "2025-05-07",
-        "end": "...",
-        "status": "Current"
+        "end": "2025-05-28",
+        "status": "Finished"
     },
     {
         "title": "Something Deeply Hidden",
         "author": "Sean Carroll",
         "published": 2019,
         "start": "2025-05-22",
+        "end": "...",
+        "status": "Current"
+    },
+    {
+        "title": "QED: The Strange Theory of Light and Matter",
+        "author": "Richard P. Feynman",
+        "published": 1985,
+        "start": "2025-05-28",
         "end": "...",
         "status": "Current"
     }
