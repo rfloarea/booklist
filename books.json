@@ -262,5 +262,13 @@
         "start": "2025-06-06",
         "end": "2025-06-16",
         "status": "Finished"
+    },
+    {
+        "title": "In a Flight of Starlings: The Wonders of Complex Systems",
+        "author": "Giorgio Parisi",
+        "published": 2023,
+        "start": "2025-06-16",
+        "end": "...",
+        "status": "Current"
     }
 ]
